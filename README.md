@@ -8,7 +8,7 @@ A) Para explicar esta pergunta, é relembrar que relembrar os estudos realizados
 
 
 B)A representação indica a mudança de estado estuda via system call e traps, estudamos na aulas que as aplicações mudam seus status transitando para o modo usuário, em primeiro plano e modo kernel, segundo plano.
-![Mudança de Eestados](<imagens/Diagrama sem nome.drawio.png>)
+![Mudança de Estados](imagens/Diagrama%20sem%20nome.drawio.png)
 
 
 
